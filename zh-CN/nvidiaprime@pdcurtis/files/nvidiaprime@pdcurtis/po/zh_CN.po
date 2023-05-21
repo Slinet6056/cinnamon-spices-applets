@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 18:03+0800\n"
+"PO-Revision-Date: 2023-05-21 00:39\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/nvidiaprime@pdcurtis/files/nvidiaprime@pdcurtis/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1351\n"
+
+#: applet.js:123
+msgid "Waiting for nvidia"
+msgstr ""
+
+#: applet.js:183
+msgid "Open Power Statistics"
+msgstr ""
+
+#: applet.js:189
+msgid "Open System Monitor"
+msgstr ""
+
+#: applet.js:207
+msgid "Housekeeping and System Sub Menu"
+msgstr ""
+
+#: applet.js:210
+msgid "View the Changelog"
+msgstr ""
+
+#: applet.js:216
+msgid "Open the Help file"
+msgstr ""
+
+#: applet.js:258
+msgid "NVidia based GPU is Off"
+msgstr ""
+
+#: applet.js:281
+msgid "NVidia based GPU is On and Core Temperature is"
+msgstr ""
+
+#: applet.js:289
+msgid "Err"
+msgstr ""
+
+#: applet.js:290
+msgid "Nvidia Prime is not set up correctly - are the nvidia drivers and nvidia-prime  installed?"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->description
+msgid "Show GPU Temperature as well as icon"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->showGpuTemp->tooltip
+msgid "Available in Horizontal and Vertical Panels. Display is in Degrees Centigrade."
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->description
+msgid "Access enhanced functionality through Context Menu - needs Cinnamon Restart"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->displayExtra->tooltip
+msgid "Currently  adds glxspheres64 Graphics Processor Test - VirtualGL needs to be installed"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the nVidia Prime Monitoring Applet"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->tooltip
+msgid "Increase or decrease this spinner value to change the refresh interval - use a slow refresh if you have a slow machine"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->refreshInterval-spinner->units
+msgid "seconds"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->settings-schema.json->head2->description
+msgid "Additional Functionality"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->metadata.json->description
+msgid "Displays which Graphics processor is active and nVidia GPU Temperature when active and in a horizontal panel"
+msgstr ""
+
+#. nvidiaprime@pdcurtis->metadata.json->name
+msgid "nVidia Prime GPU Display"
+msgstr ""
+
+#~ msgid "Housekeeping Menu"
+#~ msgstr "内务处理菜单"
+
+#~ msgid "ERROR"
+#~ msgstr "错误"
+
+#~ msgid "Nvidia Prime is not installed so applet willl not work"
+#~ msgstr "未安装Nvidia Prime，因此小程序不会工作"
+
+#~ msgid "GPU OFF"
+#~ msgstr "GPU关"
+
+#~ msgid "GPU"
+#~ msgstr "GPU"
+
+#~ msgid "Displays nVidia GPU Temperature when using Prime"
+#~ msgstr "使用Prime时显示nVidia GPU温度"
+
