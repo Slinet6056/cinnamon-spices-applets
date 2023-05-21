@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-26 17:55+0200\n"
+"PO-Revision-Date: 2023-05-21 00:39\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/location-detection@heimdall/files/location-detection@heimdall/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1333\n"
+
+#: applet.js:56
+msgid "Your percieved location."
+msgstr ""
+
+#: applet.js:104
+msgid "Your IPInfoDB account has been suspended."
+msgstr ""
+
+#: applet.js:104 applet.js:107
+msgid "Please set a valid API key in the applets settings."
+msgstr ""
+
+#: applet.js:107
+msgid "Invalid API key."
+msgstr ""
+
+#: applet.js:119
+msgid "Something went Wrong!"
+msgstr ""
+
+#. location-detection@heimdall->metadata.json->description
+msgid "Shows the geographic location of your public IP and country-flag."
+msgstr ""
+
+#. location-detection@heimdall->metadata.json->name
+msgid "Location Detection + Flags"
+msgstr ""
+
+#. location-detection@heimdall->settings-schema.json->register-
+#. ipinfodb->description
+msgid "Register on IPInfoDB to get an API key"
+msgstr ""
+
+#. location-detection@heimdall->settings-schema.json->api-key->description
+msgid "API key from IPInfoDB"
+msgstr ""
+
+#. location-detection@heimdall->settings-schema.json->api-key->tooltip
+msgid "Get your API key from IPInfoDB and place it here."
+msgstr ""
+
