@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-28 16:20+0800\n"
+"PO-Revision-Date: 2023-05-21 00:40\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/serviceLauncher@hulygun/files/serviceLauncher@hulygun/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1391\n"
+
+#: applet.js:36
+msgid "Service launcher"
+msgstr ""
+
+#. serviceLauncher@hulygun->metadata.json->description
+msgid "Description"
+msgstr ""
+
+#. serviceLauncher@hulygun->metadata.json->name
+msgid "Service Launcher"
+msgstr ""
+
+#. serviceLauncher@hulygun->settings-schema.json->services->description
+msgid "Set services"
+msgstr ""
+
+#. serviceLauncher@hulygun->settings-schema.json->services->tooltip
+msgid "use pattern Human Name:service.name;HumanName 2:service2.name"
+msgstr ""
+
+#. serviceLauncher@hulygun->settings-schema.json->header->description
+msgid "Set avaible services"
+msgstr ""
+
