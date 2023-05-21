@@ -1,0 +1,57 @@
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# ----------------------------------------------------------------------
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-03 19:54+0200\n"
+"PO-Revision-Date: 2023-05-21 00:40\n"
+"Last-Translator: Slinet6056 <slinet6056@gmail.com>\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/wireguard@nicoulaj.net/files/wireguard@nicoulaj.net/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1453\n"
+
+#. metadata.json->name
+#: applet.js:54 applet.js:212
+msgid "WireGuard"
+msgstr ""
+
+#: applet.js:67
+msgid "WireGuard configs directory /etc/wireguard does not exist, please make sure WireGuard is installed"
+msgstr ""
+
+#: applet.js:135
+msgid "Failed toggling WireGuard interface"
+msgstr ""
+
+#: applet.js:139
+msgid "Failed calling wg-quick, please make sure it is installed and accessible"
+msgstr ""
+
+#: applet.js:174
+msgid "Failed reading network interfaces"
+msgstr ""
+
+#: applet.js:186
+msgid "Failed accessing WireGuard configs directory, please make sure it is accessible\n"
+"sudo chmod o+r /etc/wireguard or sudo setfacl -m u:$username:rx /etc/wireguard"
+msgstr ""
+
+#: applet.js:219
+msgid "Error details"
+msgstr ""
+
+#. metadata.json->description
+msgid "Enable/disable WireGuard connections."
+msgstr ""
+
