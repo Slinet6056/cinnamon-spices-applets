@@ -1,0 +1,3 @@
+files:
+  - source: '*@*/files/*@*/po/*.pot'
+    translation: '%original_path%/zh_CN.po'
