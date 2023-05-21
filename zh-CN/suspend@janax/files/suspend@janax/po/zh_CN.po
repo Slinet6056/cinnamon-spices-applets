@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-23 12:17+0800\n"
+"PO-Revision-Date: 2023-05-21 00:40\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/suspend@janax/files/suspend@janax/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1411\n"
+
+#: applet.js:25
+msgid "suspend"
+msgstr ""
+
+#. suspend@janax->metadata.json->description
+msgid "Immediately suspends the computer"
+msgstr ""
+
+#. suspend@janax->metadata.json->name
+msgid "Suspend computer"
+msgstr ""
+
