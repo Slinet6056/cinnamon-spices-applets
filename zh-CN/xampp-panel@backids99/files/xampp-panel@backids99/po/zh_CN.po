@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 23:15+0800\n"
+"PO-Revision-Date: 2023-05-21 00:40\n"
+"Last-Translator: Slinet6056 <slinet6056@gmail.com>\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/xampp-panel@backids99/files/xampp-panel@backids99/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1459\n"
+
+#: applet.js:40
+msgid "Xampp Panel"
+msgstr ""
+
+#: applet.js:48
+msgid "Start XAMPP manager"
+msgstr ""
+
+#: applet.js:51
+msgid "XAMPP Start"
+msgstr ""
+
+#: applet.js:55
+msgid "XAMPP Stop"
+msgstr ""
+
+#: applet.js:59
+msgid "XAMPP Restart"
+msgstr ""
+
+#: applet.js:66
+msgid "Open Web Dir"
+msgstr ""
+
+#: applet.js:70
+msgid "Launch Web Dir"
+msgstr ""
+
+#: applet.js:74
+msgid "Launch phpMyAdmin"
+msgstr ""
+
+#: applet.js:78
+msgid "Edit default php.ini"
+msgstr ""
+
+#. xampp-panel@backids99->metadata.json->description
+msgid "A Panel Menu for XAMPP Web Developers"
+msgstr ""
+
+#. xampp-panel@backids99->metadata.json->name
+msgid "Xampp Panel Menu"
+msgstr ""
+
