@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 00:57+0100\n"
+"PO-Revision-Date: 2023-05-21 00:39\n"
+"Last-Translator: Slinet6056 <slinet6056@gmail.com>\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/MessagingMenuV3@blub/files/MessagingMenuV3@blub/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1233\n"
+
+#: applet.js:182
+msgid "Compose New Message..."
+msgstr ""
+
+#: applet.js:184
+msgid "Contacts"
+msgstr ""
+
+#. metadata.json->name
+#| msgid "Messaging Menu V3"
+msgid "Messaging Menu"
+msgstr ""
+
+#. metadata.json->description
+#| msgid "Messaging Menu V3"
+msgid "Messaging Menu applet"
+msgstr ""
+
+#~ msgid "Messaging Menu applet now compatible with Cinnamon 2.4"
+#~ msgstr "消息菜单小程序现在与Cinnamon2.4兼容"
+
