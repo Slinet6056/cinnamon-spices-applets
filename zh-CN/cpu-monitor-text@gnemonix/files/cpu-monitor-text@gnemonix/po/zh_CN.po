@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-20 10:59+0800\n"
+"PO-Revision-Date: 2023-05-21 00:39\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/cpu-monitor-text@gnemonix/files/cpu-monitor-text@gnemonix/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1285\n"
+
+#: applet.js:37
+msgid "Open System Monitor"
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->metadata.json->description
+msgid "A simple applet that displays the cpu usage."
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->metadata.json->name
+msgid "Simple CPU Monitor"
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-
+#. interval->description
+msgid "Update Interval:"
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-interval->tooltip
+msgid "Enter the interval in milliseconds between updates."
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->update-interval->units
+msgid "milliseconds"
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->max-
+#. percentage->description
+msgid "Max Percentage:"
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->max-percentage->tooltip
+msgid "Change the max percentage.\n\n"
+"If not 100% than typically a multiple corresponding to the number of cores.\n\n"
+"Example: 4 cores (100 x 4) = 400%"
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->cpu-label->description
+msgid "Text:"
+msgstr ""
+
+#. cpu-monitor-text@gnemonix->settings-schema.json->cpu-label->tooltip
+msgid "Enter custom text to show in the panel."
+msgstr ""
+
