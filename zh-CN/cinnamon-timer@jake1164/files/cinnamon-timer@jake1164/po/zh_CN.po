@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-24 08:34+0800\n"
+"PO-Revision-Date: 2023-05-21 00:39\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/cinnamon-timer@jake1164/files/cinnamon-timer@jake1164/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1273\n"
+
+#: applet.js:51
+msgid "Okay"
+msgstr ""
+
+#: applet.js:97 applet.js:226
+msgid "Timer"
+msgstr ""
+
+#: applet.js:103 applet.js:144 applet.js:224
+msgid "Minutes"
+msgstr ""
+
+#: applet.js:143 applet.js:224
+msgid "Hours"
+msgstr ""
+
+#: applet.js:145 applet.js:224
+msgid "Seconds"
+msgstr ""
+
+#: applet.js:147
+msgid "Reset"
+msgstr ""
+
+#: applet.js:224
+msgid "and"
+msgstr ""
+
+#: applet.js:302
+msgid "Edit Options"
+msgstr ""
+
+#: applet.js:304
+msgid "Restart Cinnamon"
+msgstr ""
+
+#. axos88@countdown-timer->metadata.json->description
+msgid "A countdown timer app with visual and auditory notifications based on markbokil's timer-notifications applet"
+msgstr ""
+
+#. axos88@countdown-timer->metadata.json->name
+msgid "Countdown timer with notifications"
+msgstr ""
+
