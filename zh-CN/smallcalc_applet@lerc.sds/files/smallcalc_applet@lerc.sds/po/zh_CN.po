@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-27 00:47+0100\n"
+"PO-Revision-Date: 2023-05-21 00:40\n"
+"Last-Translator: Slinet6056 <slinet6056@gmail.com>\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/smallcalc_applet@lerc.sds/files/smallcalc_applet@lerc.sds/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1397\n"
+
+#: applet.js:37 applet.js:96
+msgid "Show calculator"
+msgstr ""
+
+#: applet.js:99
+msgid "Hide calculator"
+msgstr ""
+
+#. metadata.json->name
+msgid "SmallCalc"
+msgstr ""
+
+#. metadata.json->description
+msgid "A nice compact popup calculator"
+msgstr ""
+
+#. settings-schema.json->definitionsheader->description
+msgid "Initial definitions"
+msgstr ""
+
+#. settings-schema.json->definitions->description
+msgid "Define constants and functions to use in calculator"
+msgstr ""
+
+#~ msgid "  C  "
+#~ msgstr "清除"
+
+#~ msgid " AC "
+#~ msgstr "清空"
+
