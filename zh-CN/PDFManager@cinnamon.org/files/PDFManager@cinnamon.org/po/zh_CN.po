@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinnamon-spices-applets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 00:55+0100\n"
+"PO-Revision-Date: 2023-05-21 00:39\n"
+"Last-Translator: Slinet6056 <slinet6056@gmail.com>\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Crowdin-Project: cinnamon-spices-applets\n"
+"X-Crowdin-Project-ID: 589553\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /translation-1/PDFManager@cinnamon.org/files/PDFManager@cinnamon.org/po/zh_CN.po\n"
+"X-Crowdin-File-ID: 1235\n"
+
+#: applet.js:51
+msgid "Manage your PDF"
+msgstr ""
+
+#: applet.js:70
+msgid "Merge PDF"
+msgstr ""
+
+#: applet.js:75 pdf-manager.py:157
+msgid "Extract PDF"
+msgstr ""
+
+#: applet.js:82
+msgid "Reduce size of PDF"
+msgstr ""
+
+#: applet.js:89
+msgid "Rotate left PDF"
+msgstr ""
+
+#: applet.js:94
+msgid "Rotate right PDF"
+msgstr ""
+
+#: applet.js:99
+msgid "Flip vertically PDF"
+msgstr ""
+
+#: applet.js:107
+msgid "Open Document Viewer"
+msgstr ""
+
+#: applet.js:114
+msgid "Open Evince"
+msgstr ""
+
+#: applet.js:121
+msgid "Open PDF Mod"
+msgstr ""
+
+#: applet.js:128
+msgid "Open PDF Editor"
+msgstr ""
+
+#: pdf-manager.py:33
+msgid "Installation of PDF Toolkit necessary"
+msgstr ""
+
+#: pdf-manager.py:35
+msgid "Do you want to install PDF toolkit? Your operations will be performed after the installation."
+msgstr ""
+
+#: pdf-manager.py:37
+msgid "Installation failed. Do you want to try again? Your operations will be performed after the installation."
+msgstr ""
+
+#: pdf-manager.py:47 pdf-manager.py:88 pdf-manager.py:140 pdf-manager.py:205
+#: pdf-manager.py:225 pdf-manager.py:246
+msgid "Select your PDF..."
+msgstr ""
+
+#: pdf-manager.py:55 pdf-manager.py:96 pdf-manager.py:147 pdf-manager.py:213
+#: pdf-manager.py:233 pdf-manager.py:254
+msgid "PDF Files"
+msgstr ""
+
+#: pdf-manager.py:67
+msgid "Reducing PDF"
+msgstr ""
+
+#: pdf-manager.py:69
+msgid "Your PDF are reducing... Don't manipulate selected files!"
+msgstr ""
+
+#: pdf-manager.py:106 pdf-manager.py:184
+msgid "Save as..."
+msgstr ""
+
+#: pdf-manager.py:162
+msgid "Extract following pages (example: 1-10 15-17):"
+msgstr ""
+
+#: pdf-manager.py:164
+msgid "Extract even pages"
+msgstr ""
+
+#: pdf-manager.py:166
+msgid "Extract odd pages"
+msgstr ""
+
+#. metadata.json->name
+msgid "PDFManager"
+msgstr ""
+
+#. metadata.json->description
+msgid "A handy applet for manipulating PDF"
+msgstr ""
+
+#~ msgid "Install PDFManager's tools"
+#~ msgstr "安装PDF管理器的工具"
+
+#~ msgid "Click here to manage your PDF"
+#~ msgstr "点击此处管理您的PDF"
+
+#~ msgid "Manager of PDF"
+#~ msgstr "PDF管理器"
+
+#~ msgid "Pages to extract"
+#~ msgstr "要提取的页面"
+
+#~ msgid "Input pages to extract (e.g. : 1-5 7-9 or 3-end or even or odd) :"
+#~ msgstr "输入要提取的页面（例如：1-5 7-9或3结尾或偶数或奇数）"
+
